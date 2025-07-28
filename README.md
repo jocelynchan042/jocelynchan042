@@ -9,11 +9,11 @@ I'm a Computer Science and Data Science student at Boston University with a pass
 Check out my work on this project! 
 
 ## 🛠 Tech Stack: 
-**Progamming Languages:** Python, Java, HTML, CSS, JavaScript
-**Libraries & Frameworks:** Pandas, NumPy, matplotlib, scikit-learn, React, Node.js
-**Databases:** SQL, MySQL
-**Development Tools:** VSCode, Jupyter Notebooks, Google Colab
-**Version Control:** Git, GitHub
+- **Progamming Languages:** Python, Java, HTML, CSS, JavaScript
+- **Libraries & Frameworks:** Pandas, NumPy, matplotlib, scikit-learn, React, Node.js
+- **Databases:** SQL, MySQL
+- **Development Tools:** VSCode, Jupyter Notebooks, Google Colab
+- **Version Control:** Git, GitHub
 
 <!--
 **jocelynchan042/jocelynchan042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
